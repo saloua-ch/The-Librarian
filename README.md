@@ -173,4 +173,3 @@ The frontend is a static Vite build hosted on Vercel. Generation is powered by O
 | Saloua Chouihi | Application | FastAPI backend, LLM integration, citation generation and checks, React frontend, UX |
 | Seifallah Chourou | Evaluation & deployment | Evaluation dataset, retrieval and generation evaluation, ablations, optimisation measurements, Docker, documentation |
 
-Implementation was carried out with an AI coding assistant (Claude Code).
